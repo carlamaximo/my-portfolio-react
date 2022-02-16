@@ -1,8 +1,8 @@
 .div-principal-projetos {
   background-image: linear-gradient(to bottom, rgb(148, 243, 243), rgb(241, 229, 229)) ;
   width: 100%;
-  padding-top: 5%;
-  padding-bottom: 5%;
+  padding-top: 6%;
+  padding-bottom: 6%;
 }
 
 .project-title {
@@ -48,5 +48,9 @@
     width: 280px;
     padding-top: 7%;
     padding-bottom: 7%;
+  }
+
+  .project-title {
+    font-size: 25px;
   }
 }

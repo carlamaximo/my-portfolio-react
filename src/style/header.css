@@ -7,11 +7,11 @@ header {
   opacity: 0.8;
   display: flex;
   justify-content: space-around;
-  height: 85px;
+  height: 60px;
 }
 
 .name-heart {
-  padding-top: 28px;
+  padding-top: 20px;
   display: flex;
 }
 
@@ -26,10 +26,10 @@ header {
 .menu-item {
   color: black;
   text-decoration: none;
-  padding: 15px;
-  margin-top: 9px;
+  padding: 11px;
+  margin-top: 5px;
   font-family:'Times New Roman', Times, serif;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 .menu-item:hover {
@@ -47,12 +47,15 @@ nav {
   header {
     padding-right: 12%;
     justify-content: space-evenly;
+    padding-top: -30%;
+    height: 45px;
+    font-size: 10px;
   }
   .header-name {
-    font-size: 0.1px;
+    font-size: 0.0em;
   }
 
-  .name-heart {
-    padding-left: 15%;
+  path {
+    padding-bottom: 5%;
   }
 }
