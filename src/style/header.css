@@ -44,11 +44,15 @@ nav {
 }
 
 @media only screen and (max-width: 768px) {
+  header {
+    padding-right: 12%;
+    justify-content: space-evenly;
+  }
   .header-name {
     font-size: 0.1px;
   }
 
   .name-heart {
-    padding: 4%;
+    padding-left: 15%;
   }
 }
