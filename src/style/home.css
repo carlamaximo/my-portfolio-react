@@ -1,0 +1,60 @@
+.div-principal {
+  background-image: url('https://image.freepik.com/vetores-gratis/flores-em-aquarela-para-design-de-papel-de-parede-em-tons-pastel_23-2148435421.jpg');
+  background-size: cover;
+  background-position: center;
+  padding-top: 5%;
+  padding: 15%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.picture-profile {
+  background-image: url('../images/profilePicture.jpeg');
+  background-size: 100%;
+  padding: 15%;
+  border-radius: 60%;
+  border: 3px dotted black;
+}
+
+.box-about {
+    background: rgba(209, 188, 241, 0.5);
+    width: 62%;
+    text-align: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 3%;
+    border-radius: 20px;
+}
+
+.about-title {
+  font-family: 'Permanent Marker', cursive;
+}
+
+.div-main {
+  display: flex;
+  flex-direction: column;
+}
+.skills {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10%;
+  color:purple;
+}
+
+@media only screen and (max-width: 768px) {
+  .div-principal {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40%;
+  }
+
+  .box-about {
+    width: 250px;
+    padding: 10%;
+  }
+
+  .picture-profile{
+    border: none;
+    padding: 0px;
+  }
+}

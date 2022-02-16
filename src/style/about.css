@@ -1,0 +1,15 @@
+.about-principal {
+  font-family: 'Times New Roman', Times, serif;;
+  padding: 10%;
+  padding-top: 8%;
+  background-color: rgb(209, 188, 241);
+}
+
+.title-about {
+  font-family: 'Permanent Marker', cursive;
+  padding-bottom: 6%;
+}
+
+.paragraph-about {
+  padding-bottom: 5%;
+}
