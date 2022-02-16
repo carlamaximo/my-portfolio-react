@@ -11,13 +11,14 @@ header {
 }
 
 .name-heart {
-  padding-top: 7px;
+  padding-top: 28px;
   display: flex;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Festive&family=Permanent+Marker&family=Shizuru&family=Spicy+Rice&display=swap');
 
 .header-name {
+  /* padding-top: 15%; */
   font-family: 'Festive', cursive;
   font-size: 29px;
 }
