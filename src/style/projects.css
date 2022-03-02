@@ -14,9 +14,10 @@
 }
 
 .box-all-projects {
-  display: flex;
-  justify-content: space-around;
+  margin-left: 25%;
   padding-top: 5%;
+  width: 50%;
+  /* padding-bottom: 5%; */
 }
 
 .image-project-trybetunes {
