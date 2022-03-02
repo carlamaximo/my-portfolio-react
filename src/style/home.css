@@ -2,8 +2,8 @@
   background-image: url('https://image.freepik.com/vetores-gratis/flores-em-aquarela-para-design-de-papel-de-parede-em-tons-pastel_23-2148435421.jpg');
   background-size: cover;
   background-position: center;
-  padding-top: 5%;
-  padding: 15%;
+  padding-top: 4%;
+  padding: 13%;
   display: flex;
   justify-content: space-between;
 }
@@ -28,6 +28,7 @@
 
 .about-title {
   font-family: 'Permanent Marker', cursive;
+  font-size: 20px;
 }
 
 .div-main {
