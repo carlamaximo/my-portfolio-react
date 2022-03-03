@@ -7,7 +7,7 @@ export default class Projects extends Component {
   render() {
     return (
       <div className="div-principal-projetos" id="projects">
-        <h2 className="project-title">Meus projetos</h2>
+        <h2 className="project-title">Meus Projetos</h2>
         <div className="box-all-projects">
         <Carousel>
           <Carousel.Item>

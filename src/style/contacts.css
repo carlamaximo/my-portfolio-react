@@ -1,5 +1,5 @@
 .div-principal-contatos {
-  background-color: rgb(106, 236, 193);
+  background-color: rgb(150, 150, 231);
   padding: 1%;
   /* height: 80%; */
   display: flex;
@@ -15,7 +15,7 @@ nav a {
 }
 
 .paragraph-footer {
-  color: rgb(63, 63, 212);
+  color: white;
   padding-top: 10px;
   /* padding-bottom: 10px; */
   margin-bottom: 5px;
