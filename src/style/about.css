@@ -3,19 +3,32 @@
   font-family: 'Times New Roman', Times, serif;;
   padding: 16%;
   padding-top: 8%;
-  background-color: rgb(213, 192, 243);
+  background-color: rgb(223, 210, 241);
+}
+
+.div-titles {
+ display: flex;
+ flex-direction: column;
+ margin-left: -450px;
+ padding-bottom: 50px;
 }
 
 .title-about {
   color: rgb(226, 9, 129);
   font-family: 'EB Garamond', serif;
   font-style: italic;
-  padding-bottom: 6%;
+  padding-bottom: 2%;
   padding-top: 5%;
-  font-size: 25px;
+  font-size: 30px;
   /* white-space: nowrap;
   overflow: hidden; */
   animation: example 5s linear 2s infinite alternate;
+}
+
+.subtitle {
+  font-size: 20px;
+  font-family: 'Pacifico', cursive;
+  font-style: italic;
 }
 
 .paragraph-about {

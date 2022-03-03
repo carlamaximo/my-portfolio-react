@@ -26,6 +26,7 @@ header {
 .menu-item {
   color:rgb(37, 36, 37);
   text-decoration: none;
+  font-style: italic;
   padding: 8px;
   margin-top: 5px;
   font-family: 'Pacifico', cursive;
@@ -33,8 +34,9 @@ header {
 }
 
 .menu-item:hover {
-  color: rgb(179, 59, 216);
+  color: rgb(226, 9, 129);
   text-decoration: none;
+  text-decoration: underline;
 }
 
 nav {

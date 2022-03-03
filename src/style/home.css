@@ -8,11 +8,11 @@
   justify-content: space-between;
 }
 
-p .p-home {
+/* p .p-home {
   font-family: 'EB Garamond', serif;
   font-style: italic, oblique;
   font-size: medium;
-}
+} */
 
 .picture-profile {
   background-image: url('../images/profile.jpeg');
@@ -26,7 +26,8 @@ p .p-home {
     color: rgb(76, 76, 94);
     background: rgba(209, 188, 241, 0.5);
     width: 65%;
-    font-family: 'EB Garamond', serif;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 15px;
     text-align: center;
     align-items: center;
     padding: 5%;
