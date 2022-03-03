@@ -1,4 +1,5 @@
 .about-principal {
+  font-family: 'Abril Fatface', cursive;
   color: rgb(76, 76, 94);
   font-family: 'Times New Roman', Times, serif;;
   padding: 16%;
@@ -33,4 +34,13 @@
 
 .paragraph-about {
   padding-bottom: 5%;
+}
+
+@media only screen and (max-width: 768px) {
+  .div-titles {
+    display: flex;
+    flex-direction: column;
+    margin-left: 4px;
+    padding-bottom: 50px;
+  }
 }
