@@ -1,11 +1,8 @@
 .div-principal-contatos {
   background-color: rgb(150, 150, 231);
   padding: 1%;
-  /* height: 80%; */
   display: flex;
   justify-content: center;
-  /* padding-bottom: 0.%; */
-  font-family: 'Times New Roman', Times, serif;
 }
 
 nav a {

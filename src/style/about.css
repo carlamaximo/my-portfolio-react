@@ -1,4 +1,5 @@
 .about-principal {
+  color: rgb(76, 76, 94);
   font-family: 'Times New Roman', Times, serif;;
   padding: 16%;
   padding-top: 8%;
@@ -6,6 +7,7 @@
 }
 
 .title-about {
+  color: rgb(226, 9, 129);
   font-family: 'EB Garamond', serif;
   font-style: italic;
   padding-bottom: 6%;

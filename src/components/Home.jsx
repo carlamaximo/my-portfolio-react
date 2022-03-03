@@ -25,7 +25,7 @@ export default class Home extends Component {
           <div className="box-about">
             <h2 className="about-title">Olá, eu sou a Carla!</h2>
             {/* { this.dinamicText()} */}
-            <p>Estudo programação há aproximadamente 1 ano e procuro pela minha primeira experiência profissional como Desenvolvedora Front-End Junior</p>
+            <p className="p-home">Estudo programação há aproximadamente 1 ano e procuro pela minha primeira experiência profissional como Desenvolvedora Front-End Junior</p>
             <div className="skills">
               <i class="html5 big icon"></i>
               <i class="css3 alternate big icon"></i>

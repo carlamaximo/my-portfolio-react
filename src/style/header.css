@@ -1,6 +1,6 @@
 header {
   text-decoration: none;
-  color:black;
+  color:rgb(37, 36, 37);
   position: fixed;
   width: 100%;
   background-color: antiquewhite;
@@ -24,16 +24,16 @@ header {
 }
 
 .menu-item {
-  color: black;
+  color:rgb(37, 36, 37);
   text-decoration: none;
   padding: 8px;
   margin-top: 5px;
-  font-family:'Times New Roman', Times, serif;
+  font-family: 'Pacifico', cursive;
   font-size: 1.1em;
 }
 
 .menu-item:hover {
-  color: rgb(216, 59, 216);
+  color: rgb(179, 59, 216);
   text-decoration: none;
 }
 
