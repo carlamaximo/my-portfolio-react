@@ -3,7 +3,8 @@ header {
   color:rgb(37, 36, 37);
   position: fixed;
   width: 100%;
-  background-color: antiquewhite;
+  /* background-color: antiquewhite; */
+  background-color: #FFEDDC;
   opacity: 0.8;
   display: flex;
   justify-content: space-around;

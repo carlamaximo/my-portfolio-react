@@ -44,12 +44,21 @@ h1 span span { color: pink; }
 h1 span span:nth-child(2n) { color: orange; }
 h1 span span { 	animation: move-text 0.75s forwards; } */
 
+@keyframes type{ 
+  from { 
+       width: 0; 
+       } 
+   }
+
 .about-title {
   font-family: 'EB Garamond', serif;
   font-style: italic;
   color: rgb(226, 9, 129);
   font-size: 22px;
-  animation: move-text 0.75s forwards;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 30em;
+  animation: type 8s steps(60, end); 
 }
 
 .div-main {
