@@ -14,9 +14,9 @@ export default class Projects extends Component {
             <div className="box-project">
               <img
                 className="d-block w-100 image-project"
-                src={ 'https://user-images.githubusercontent.com/71015610/150001871-3cb31af2-b225-46e3-adea-793c117a0afe.png' }
+                src={ 'https://emdiabetes.com.br/wp-content/uploads/2017/09/breve.jpg' }
                 alt="First slide"
-                width={400}
+                width={1}
               />
               {/* <Carousel.Caption>
                 <h4>Trybetunes</h4>
@@ -28,7 +28,8 @@ export default class Projects extends Component {
               <div className="box-project">
               <img
                 className="d-block w-100 image-project"
-                src={ 'https://user-images.githubusercontent.com/71015610/150432797-afed9a6d-4825-4c1e-97f6-f975057b4a0e.png' }
+                // src={ 'https://user-images.githubusercontent.com/71015610/150432797-afed9a6d-4825-4c1e-97f6-f975057b4a0e.png' }
+                src={ 'https://emdiabetes.com.br/wp-content/uploads/2017/09/breve.jpg' }
                 alt="Second slide"
                 width={400}
               />
@@ -43,7 +44,8 @@ export default class Projects extends Component {
               {/* <div className="d-block w-100 image-project"></div> */}
               <img
                 className="d-block w-100 image-project"
-                src={ 'https://user-images.githubusercontent.com/71015610/153540778-7c915be5-8734-4fcf-954b-0c8b27a183aa.png' }
+                src={ 'https://emdiabetes.com.br/wp-content/uploads/2017/09/breve.jpg' }
+                // src={ 'https://user-images.githubusercontent.com/71015610/153540778-7c915be5-8734-4fcf-954b-0c8b27a183aa.png' }
                 alt="third slide"
                 width={400}
               />
@@ -58,7 +60,8 @@ export default class Projects extends Component {
               {/* <div className="d-block w-100 image-project"></div> */}
               <img
                 className="d-block w-100 image-project"
-                src={'https://user-images.githubusercontent.com/71015610/150037862-a6421f4c-6b51-4ec2-a8f3-7753405a65ff.png'}
+                // src={'https://user-images.githubusercontent.com/71015610/150037862-a6421f4c-6b51-4ec2-a8f3-7753405a65ff.png'}
+                src={ 'https://emdiabetes.com.br/wp-content/uploads/2017/09/breve.jpg' }
                 alt="trying sile"
                 width={400}
               />

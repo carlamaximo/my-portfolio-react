@@ -58,9 +58,11 @@ h1 span span { 	animation: move-text 0.75s forwards; } */
 }
 .skills {
   display: flex;
-  justify-content: space-around;
-  margin-top: 10%;
-  color:purple;
+}
+
+.skill-item {
+  /* padding: 3px; */
+  width: 2000px;
 }
 
 @media only screen and (max-width: 768px) {

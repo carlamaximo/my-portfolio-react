@@ -1,5 +1,11 @@
 import React, { Component } from 'react';
 import '../style/home.css';
+import { SiJavascript } from "@react-icons/all-files/si/SiJavascript";
+import { FaReact } from "@react-icons/all-files/fa/FaReact";
+import { AiFillHtml5 } from "@react-icons/all-files/ai/AiFillHtml5";
+import { IoLogoCss3 } from "@react-icons/all-files/io/IoLogoCss3";
+import { FaDocker } from "@react-icons/all-files/fa/FaDocker";
+import { GrMysql } from "@react-icons/all-files/gr/GrMysql";
 
 export default class Home extends Component {
   // constructor() {
@@ -27,11 +33,12 @@ export default class Home extends Component {
             {/* { this.dinamicText()} */}
             <p className="p-home">Estudo programação há aproximadamente 1 ano e procuro pela minha primeira experiência profissional como Desenvolvedora Front-End Junior</p>
             <div className="skills">
-              <i class="html5 big icon"></i>
-              <i class="css3 alternate big icon"></i>
-              <i class="js big icon"></i>
-              <i class="react big icon"></i>
-              <i class="docker big icon"></i>
+              <AiFillHtml5 className="skill-item"/>
+              <IoLogoCss3 className="skill-item"/>
+              <SiJavascript className="skill-item"/>
+              <FaReact className="skill-item"/>
+              <FaDocker className="skill-item"/>
+              <GrMysql className="skill-item"/>
             </div>
           </div>
         </div>
